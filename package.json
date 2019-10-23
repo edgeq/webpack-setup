@@ -4,7 +4,9 @@
   "private": true,
   "description": "First webpack configuration",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "webpack"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
